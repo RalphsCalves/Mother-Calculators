@@ -2,15 +2,21 @@
 I supply people with cheat sheets
 
 The term "Mother Calculator" came from two things:
-
+============
 (1) the person I have learned from the most (Mother)
+
 (2) the thing  I have learned from the least (Calculator)
 
-My favorite way to study is creating cheat sheets. 
+My favorite way to study is creating cheat sheets.
+
 It helps me organize my mind before an exam, and it ends 
-up being an accumulation of everything I learned.  
+
+up being an accumulation of everything I learned. 
+
 I would suggest that you make your own cheat sheet. 
+
 Go ahead and use mine as a guide. 
+
 Google is 1000% the best cheat sheet.
 
 In this repo, you will see cheat sheets that I have custom made for each of the classes I have taken:
