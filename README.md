@@ -2,6 +2,7 @@
 I supply people with cheat sheets
 
 The term "Mother Calculator" came from two things:
+
 (1) the person I have learned from the most (Mother)
 (2) the thing  I have learned from the least (Calculator)
 
