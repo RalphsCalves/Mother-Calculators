@@ -8,7 +8,7 @@ The term "Mother Calculator" came from two things:
 (2) the thing  I have learned from the least (Calculator)
 
 My favorite way to study is creating cheat sheets.
-
+============
 It helps me organize my mind before an exam, and it ends 
 
 up being an accumulation of everything I learned. 
